@@ -33,10 +33,6 @@ table {
   width: 100%;
 }
 
-table, td {
-  border: 1px solid black;
-}
-
 .rightalign {
   text-align: right;
   font-weight: bold;
