@@ -10,4 +10,17 @@ header h1 {
   list-style-type: none;
   text-align: center;
   font-family: Helvetica;
+  margin bottom: 10px;
 }
+
+h2 {
+  font-family: Helvetica;
+  margin-bottom: 2px; 
+  font-weight: bold;
+}
+
+hr {
+  width: 80%;
+  height: 8px;
+}
+    
