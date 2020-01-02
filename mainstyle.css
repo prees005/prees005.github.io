@@ -20,13 +20,13 @@ h2 {
 }
 
 hr {
-  display: block;
-  margin-before: 0.5em;
-  margin-after: 0.5em;
-  margin-start: auto;
-  margin-end: auto;
-  overflow: hidden;
-  border-style: inset;
-  border-width: 1px;
+  width: 50%;
+  height: 20px;
   background-color: black;
+  margin-right: auto;
+  margin-left: auto;
+  margin-top: 1px;
+  margin-bottom: 2px;
+  border-width: 2px;
+  border-color: black;
 }
