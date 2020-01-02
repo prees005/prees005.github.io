@@ -35,9 +35,13 @@ table {
 
 .rightalign {
   text-align: right;
-  font-weight: bold;
 }
 
 .leftalign {
   text-align: left;
+  font-weight: bold;
+}
+
+.degree {
+  text-indent: 10%;
 }
