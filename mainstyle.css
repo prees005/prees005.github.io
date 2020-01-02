@@ -21,12 +21,7 @@ h2 {
 
 hr {
   width: 50%;
-  height: 20px;
+  height: 2px;
   background-color: black;
-  margin-right: auto;
-  margin-left: auto;
-  margin-top: 1px;
-  margin-bottom: 2px;
-  border-width: 2px;
   border-color: black;
 }
