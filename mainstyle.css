@@ -31,6 +31,9 @@ hr {
 
 table {
   width: 100%;
+}
+
+table, td {
   border: 1px solid black;
 }
 
