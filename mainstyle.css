@@ -81,3 +81,8 @@ table {
   font-family: Helvetica;
   font-size: 20px;
 }
+
+.shdate {
+  text-align: right;
+  vertical-align: top;
+}
