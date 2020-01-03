@@ -84,9 +84,8 @@ table {
 
 .shdate {
   text-align: right;
-  vertical-align: top;
 }
 
-.job1 {
-  vertical-align: top;
+.peds {
+  font-size: 25px;
 }
