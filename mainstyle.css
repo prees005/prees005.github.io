@@ -104,3 +104,11 @@ table {
   font-size: 20px;
 }
   
+.alignleft {
+  text-align: left;
+  font-weight: bold;
+}
+
+.paperlink {
+  text-align: right;
+}
