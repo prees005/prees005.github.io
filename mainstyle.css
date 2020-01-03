@@ -80,7 +80,6 @@ table {
   font-weight: normal;
   font-family: Helvetica;
   font-size: 20px;
-  line-height: normal;
 }
 
 .shdate {
@@ -91,3 +90,17 @@ table {
   margin-top: 2px;
   margin-bottom: 2px;
 }
+
+.research {
+  font-family: Helvetica;
+  margin-bottom: 2px; 
+  font-weight: bold;
+  font-size: 30px
+}
+
+.papers {
+  font-weight: normal;
+  font-family: Helvetica;
+  font-size: 20px;
+}
+  
