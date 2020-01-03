@@ -80,7 +80,7 @@ table {
   font-weight: normal;
   font-family: Helvetica;
   font-size: 20px;
-  line-height: 90%;
+  line-height: normal;
 }
 
 .shdate {
