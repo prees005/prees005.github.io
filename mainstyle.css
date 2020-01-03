@@ -68,3 +68,14 @@ table {
   text-align: right;
 }
   
+.wkexperience {
+  font-family: Helvetica;
+  margin-bottom: 2px; 
+  font-weight: bold;
+}
+
+.work {
+  font-weight: normal;
+  font-family: Helvetica;
+  font-size: 20px;
+}
