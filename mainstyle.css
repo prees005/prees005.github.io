@@ -53,3 +53,11 @@ table {
   font-family: Helvetica;
   font-size: 20px;
 }
+
+alignedleft {
+  text-align: left;
+}
+
+alignedright {
+  text-align:right;
+}
