@@ -63,4 +63,8 @@ table {
 .unit {
   text-align: left;
 }
+
+.date {
+  text-align: right;
+}
   
